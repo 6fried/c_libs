@@ -1,0 +1,77 @@
+DOXYFILE_ENCODING   =   UTF-8
+
+PROJECT_NAME        =   "Util Tools"
+
+PROJECT_BRIEF       =   "A librairy with many funy utils"
+
+OUTPUT_DIRECTORY    =   "doc/"
+
+GENERATE_LATEX          =   NO
+
+CREATE_SUBDIRS      =   YES
+
+ALLOW_UNICODE_NAMES =   YES
+
+OUTPUT_LANGUAGE     =   English
+
+OUTPUT_TEXT_DIRECTION   =   None
+
+BRIEF_MEMBER_DESC       =   YES
+
+REPEAT_BRIEF            =   YES
+
+FULL_PATH_NAMES         =   YES
+
+TAB_SIZE                =   4
+
+OPTIMISE_OUTPUT_FOR_C   =   YES
+
+MARKDOWN_SUPPORT        =   YES
+
+AUTOLINK_SUPPORT        =   YES
+
+EXTRACT_ALL             =   YES
+
+INTERNAL_DOCS           =   YES
+
+SHOW_INCLUDE_FILES      =   YES
+
+FORCE_LOCAL_INCLUDES    =   YES
+
+SORT_BRIEF_DOCS         =   YES
+
+SORT_MEMBERS_CTORS_1ST  =   YES
+
+SHOW_USED_FILES         =   YES
+
+SHOW_USED_FILES         =   YES
+
+INPUT                   =   BEGINNER/ \
+                            HUNTER/ \
+                            CHALLENGER/
+
+RECURSIVE               =   YES
+
+FILE_PATERNS            =   *.c
+
+SOURCE_BROWSER          =   YES
+
+INLINE_SOURCES          =   YES
+
+STRIP_CODE_COMMENTS     =   YES
+
+SOURCE_TOOLTIPS         =   YES
+
+ALPHABETICAL_INDEX      =   YES
+
+GENERATE_HTML           =   YES
+
+GENERATE_HTMLHELP       =   YES
+
+SEARCHENGINE            =   YES
+
+SERVER_BASED_SEARCH     =   YES
+
+EXTERNAL_SEARCH         =   YES
+
+ENABLE_PREPROCESSING    =   YES
