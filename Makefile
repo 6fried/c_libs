@@ -8,7 +8,7 @@ CC =		gcc
 
 AR =		ar
 
-NAME =		output/libutils.a
+NAME =		output/libc_libs.a
 
 CFLAGS =	-Wall -Werror -Iinclude
 
