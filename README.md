@@ -1,3 +1,4 @@
+
 # C_LIBS  
 
 C_LIBS is a small compilation of useful C functions  
@@ -36,7 +37,7 @@ After compiling the librairy, you have to copy and past it in you project reposi
 `$ gcc $(SRC) -L. -access/path/to/c_libs`
 
 ## AUTHORS
-GitHub: [6fried][1] 
+GitHub: [6fried][1]  
 Email: <hohelric@gmail.com>
 
 ## LICENCE
