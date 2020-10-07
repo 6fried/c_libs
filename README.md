@@ -36,7 +36,8 @@ After compiling the librairy, you have to copy and past it in you project reposi
 `$ gcc $(SRC) -L. -access/path/to/c_libs`
 
 ## AUTHORS
-[6fried][1] <hohelric@gmail.com>
+GitHub: [6fried][1] 
+Email: <hohelric@gmail.com>
 
 ## LICENCE
 
