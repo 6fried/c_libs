@@ -22,6 +22,7 @@ SRC = 		$(shell find BEGINNER/ -name '*.c')\
 all: 	 fclean $(NAME) clean docs
 
 $(NAME): $(SRC)
+		mkdir output
 		$(CC) $(CFLAGS) -c $^
 		$(AR) $(ARFLAGS) $@ *.o
 
