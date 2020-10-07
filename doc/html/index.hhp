@@ -1,0 +1,81 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Util Tools
+
+[WINDOWS]
+main="Util Tools","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+d0/d3d/str__capitalize_8c.html
+d0/d3d/str__capitalize_8c_source.html
+d1/d74/sort__in__array_8c.html
+d1/d74/sort__in__array_8c_source.html
+d1/d99/my__strdup_8c.html
+d1/d99/my__strdup_8c_source.html
+d2/de9/nbr__to__string_8c.html
+d2/de9/nbr__to__string_8c_source.html
+d3/d34/is__number_8c.html
+d3/d34/is__number_8c_source.html
+d4/d27/get__file__in__tabs_8c.html
+d4/d27/get__file__in__tabs_8c_source.html
+d4/daa/my__strcpy_8c.html
+d4/daa/my__strcpy_8c_source.html
+d5/d25/my__strcat_8c.html
+d5/d25/my__strcat_8c_source.html
+d5/dcf/string__to__nbr_8c.html
+d5/dcf/string__to__nbr_8c_source.html
+d5/dd1/empty__file_8c.html
+d5/dd1/empty__file_8c_source.html
+d6/dcf/sort__word__array_8c.html
+d6/dcf/sort__word__array_8c_source.html
+d6/dd1/find__hide__string_8c.html
+d6/dd1/find__hide__string_8c_source.html
+d7/da7/uppercase_8c.html
+d7/da7/uppercase_8c_source.html
+d8/db0/pyramid_8c.html
+d8/db0/pyramid_8c_source.html
+d9/d21/str__to__wordtab_8c.html
+d9/d21/str__to__wordtab_8c_source.html
+d9/dd8/rev__str_8c.html
+d9/dd8/rev__str_8c_source.html
+da/d85/dec__to__base__special_8c.html
+da/d85/dec__to__base__special_8c_source.html
+dc/dc8/base__to__dec_8c.html
+dc/dc8/base__to__dec_8c_source.html
+dd/d7f/is__same__str_8c.html
+dd/d7f/is__same__str_8c_source.html
+de/d23/is__letters_8c.html
+de/d23/is__letters_8c_source.html
+de/d6b/my__strlen_8c.html
+de/d6b/my__strlen_8c_source.html
+de/df9/dec__to__base_8c.html
+de/df9/dec__to__base_8c_source.html
+df/d11/lowercase_8c.html
+df/d11/lowercase_8c_source.html
+df/d3d/count__words_8c.html
+df/d3d/count__words_8c_source.html
+dir_3db2d88c5677615a493643d95e85a9f6.html
+dir_df91d9f5632a2e2ece249b824ae63344.html
+dir_eb3300fdc2f592c073d18774c7be4290.html
+files.html
+globals.html
+globals_func.html
+index.html
+bc_s.png
+bdwn.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
