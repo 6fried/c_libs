@@ -17,7 +17,7 @@ C_LIBS has been coded only in C using
   * unistd.h
 libs  
 
-See more info about included function in the [full doumentation](./doc/htlm/index.html).
+See more info about included function in the [full doumentation](./doc/html/index.html).
 
 ## COMPILATION
 
