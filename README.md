@@ -1,10 +1,10 @@
-#C_LIBS  
+# C_LIBS  
 
 C_LIBS is a small compilation of useful C functions  
 
-##About C_LIBS
+## About C_LIBS
 
-###Built with  
+### Built with  
 
 C_LIBS has been coded only in C using 
 
@@ -18,7 +18,7 @@ libs
 
 See more info about included function in the [full doumentation](./doc/htlm/index.html).
 
-##COMPILATION
+## COMPILATION
 
 To compile the librairy and use it, you have to:
 
@@ -30,19 +30,19 @@ To compile the librairy and use it, you have to:
   * **make fclean**vto delete the past compiled lib and the documentation
 3. Enjoy your lib
 
-##USAGE
+## USAGE
 
 After compiling the librairy, you have to copy and past it in you project repository, then for example if you're using GCC for compilation, you have to run:  
 `$ gcc $(SRC) -L. -access/path/to/c_libs`
 
-##AUTHORS
-@6fried <hohelric@gmail.com>
+## AUTHORS
+[6fried][1] <hohelric@gmail.com>
 
-##LICENCE
+## LICENCE
 
-MIT License  
+**MIT License**  
 
-Copyright (c) 2020 @6fried  
+Copyright (c) 2020 [6fried][1]  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -62,3 +62,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.  
 
+[1]:https://github.com/6fried/
